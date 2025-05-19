@@ -53,5 +53,4 @@ class SbbApplicationTests {
 		this.answerRepository.save(a);
 		
 	}
-
 }
